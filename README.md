@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pradeep1723
+- 👋 Hi, I’m @Pradeep Bhat
 - 👀 I’m interested in Coding, Drawing, Gaming
-- 🌱 I’m currently learning BE in SDMIT Ujire
+- 🌱 I’m currently working as a Trainee Developer @Alt Digital Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
